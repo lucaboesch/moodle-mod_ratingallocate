@@ -1,6 +1,6 @@
 moodle-mod_ratingallocate
 ============================
-[![codecov](https://codecov.io/gh/learnweb/moodle-mod_ratingallocate/branch/master/graph/badge.svg)](https://codecov.io/gh/learnweb/moodle-mod_ratingallocate)
+[![Moodle Plugin CI](https://github.com/learnweb/moodle-mod_ratingallocate/actions/workflows/moodle-ci.yml/badge.svg)](https://github.com/learnweb/moodle-mod_ratingallocate/actions/workflows/moodle-ci.yml) [![codecov](https://codecov.io/gh/learnweb/moodle-mod_ratingallocate/branch/master/graph/badge.svg)](https://codecov.io/gh/learnweb/moodle-mod_ratingallocate)
 
 Module which lets you add an activity to courses, in which users can rate choices. You may then distribute the users fairly to the choices by maximising overall 'hapiness' in terms
 of ratings.
